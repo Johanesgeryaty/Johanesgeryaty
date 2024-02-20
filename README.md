@@ -11,6 +11,6 @@
 - 🤔 My interests with JavaScript programming language;
 - 💼 I am a vocational school student majoring in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via dwiko.dev@gmail.com to reach me.
+- 📫 Please email via gpjohan324@gmail.com to reach me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanesgeryaty&layout=compact)](https://github.com/JohanesGeryaty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johanesgeryaty&layout=compact)](https://github.com/Johanesgeryaty/github-readme-stats)
